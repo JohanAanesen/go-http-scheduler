@@ -1,3 +1,3 @@
-module github.com/JohanAanesen/CSAMS/schedulerservice
+module github.com/JohanAanesen/go-http-scheduler
 
-// go 1.12
+go 1.12

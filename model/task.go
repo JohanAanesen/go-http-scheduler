@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/JohanAanesen/CSAMS/schedulerservice/db"
+	"github.com/JohanAanesen/go-http-scheduler/db"
 	"io/ioutil"
 	"log"
 	"net/http"

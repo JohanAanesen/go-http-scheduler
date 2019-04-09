@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"encoding/json"
-	"github.com/JohanAanesen/CSAMS/schedulerservice/model"
+	"github.com/JohanAanesen/go-http-scheduler/model"
 	"github.com/JohanAanesen/CSAMS/webservice/shared/util"
 	"io"
 	"net/http"

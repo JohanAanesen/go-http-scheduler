@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	"github.com/JohanAanesen/CSAMS/schedulerservice/model"
+	"github.com/JohanAanesen/go-http-scheduler/model"
 	"github.com/gorilla/mux"
 	"log"
 	"net/http"

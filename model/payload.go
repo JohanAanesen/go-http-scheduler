@@ -2,7 +2,7 @@ package model
 
 import (
 	"encoding/json"
-	"github.com/JohanAanesen/CSAMS/schedulerservice/db"
+	"github.com/JohanAanesen/go-http-scheduler/db"
 	"log"
 	"time"
 )

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/JohanAanesen/CSAMS/schedulerservice/db"
-	"github.com/JohanAanesen/CSAMS/schedulerservice/model"
+	"github.com/JohanAanesen/go-http-scheduler/db"
+	"github.com/JohanAanesen/go-http-scheduler/model"
 )
 
 func main() {
